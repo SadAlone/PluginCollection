@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.ElectronicNodes.cpp.obj": [
+			"ElectronicNodes.cpp.obj",
+			"ENConnectionDrawingPolicy.cpp.obj"
+		],
+		"Module.ElectronicNodes.gen.cpp.obj": [
+			"ElectronicNodes.init.gen.cpp.obj",
+			"ElectronicNodesSettings.gen.cpp.obj"
+		]
+	}
+}

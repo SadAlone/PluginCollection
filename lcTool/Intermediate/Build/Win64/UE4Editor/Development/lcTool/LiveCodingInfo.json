@@ -1,0 +1,27 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.lcTool.cpp.obj": [
+			"etActor.cpp.obj",
+			"lcBpBridge.cpp.obj",
+			"lcDlg.cpp.obj",
+			"lcImportFileSystem.cpp.obj",
+			"lcLevelToolLibrary.cpp.obj",
+			"LcSettingObjFactory.cpp.obj",
+			"lcSktCommand.cpp.obj",
+			"lcTool.cpp.obj",
+			"lcToolCommands.cpp.obj",
+			"lcToolStyle.cpp.obj",
+			"lcToolSubSystem.cpp.obj"
+		],
+		"Module.lcTool.gen.cpp.obj": [
+			"etActor.gen.cpp.obj",
+			"lcBpBridge.gen.cpp.obj",
+			"lcImportFileSystem.gen.cpp.obj",
+			"lcLevelToolLibrary.gen.cpp.obj",
+			"LcSettingObjFactory.gen.cpp.obj",
+			"lcTool.init.gen.cpp.obj",
+			"lcToolSubSystem.gen.cpp.obj"
+		]
+	}
+}

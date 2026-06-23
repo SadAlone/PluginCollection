@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.buildLight.cpp.obj": [
+			"buildLight.cpp.obj",
+			"BuildLightActor.cpp.obj"
+		],
+		"Module.buildLight.gen.cpp.obj": [
+			"buildLight.init.gen.cpp.obj",
+			"BuildLightActor.gen.cpp.obj"
+		]
+	}
+}

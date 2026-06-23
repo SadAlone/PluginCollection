@@ -1,0 +1,12 @@
+{
+	"BuildId": "791316d1-f104-443a-bffd-ea3804558fb0",
+	"Modules": 
+	{
+		"buildLight": "UE4Editor-buildLight.dll",
+		"ElectronicNodes": "UE4Editor-ElectronicNodes.dll",
+		"groupAction": "UE4Editor-groupAction.dll",
+		"groupActionEditorMode": "UE4Editor-groupActionEditorMode.dll",
+		"LcRuntimeLibrary": "UE4Editor-LcRuntimeLibrary.dll",
+		"lcTool": "UE4Editor-lcTool.dll"
+	}
+}

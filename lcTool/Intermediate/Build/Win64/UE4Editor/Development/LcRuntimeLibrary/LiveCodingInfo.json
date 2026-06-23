@@ -1,0 +1,15 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.LcRuntimeLibrary.cpp.obj": [
+			"LcRuntimeLibrary.cpp.obj",
+			"LcRuntimeLibraryBPLibrary.cpp.obj",
+			"LcSettingObj.cpp.obj"
+		],
+		"Module.LcRuntimeLibrary.gen.cpp.obj": [
+			"LcRuntimeLibrary.init.gen.cpp.obj",
+			"LcRuntimeLibraryBPLibrary.gen.cpp.obj",
+			"LcSettingObj.gen.cpp.obj"
+		]
+	}
+}

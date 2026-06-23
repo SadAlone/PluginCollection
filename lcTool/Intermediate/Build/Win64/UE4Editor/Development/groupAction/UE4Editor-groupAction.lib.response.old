@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-groupAction.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\UE4_Engine\UnrealEngine-4.26.1-release\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\UE4_Engine\UnrealEngine-4.26.1-release\Engine\Plugins\lcTool\Intermediate\Build\Win64\UE4Editor\Development\groupAction\Module.groupAction.cpp.obj"
+"C:\UE4_Engine\UnrealEngine-4.26.1-release\Engine\Plugins\lcTool\Intermediate\Build\Win64\UE4Editor\Development\groupAction\Module.groupAction.gen.cpp.obj"
+"C:\UE4_Engine\UnrealEngine-4.26.1-release\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
+/OUT:"C:\UE4_Engine\UnrealEngine-4.26.1-release\Engine\Plugins\lcTool\Intermediate\Build\Win64\UE4Editor\Development\groupAction\UE4Editor-groupAction.lib"
+/INCLUDE:IMPLEMENT_MODULE_groupAction

@@ -1,0 +1,29 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.groupAction.cpp.obj": [
+			"GaCharacter.cpp.obj",
+			"GaGroupUnit.cpp.obj",
+			"GaProjectEmitter.cpp.obj",
+			"GaProjectileActor.cpp.obj",
+			"GaProjectilePool.cpp.obj",
+			"GaSubVolum.cpp.obj",
+			"GaTargetFloowActor.cpp.obj",
+			"GaTargetPointActor.cpp.obj",
+			"groupAction.cpp.obj",
+			"groupActionGISS.cpp.obj"
+		],
+		"Module.groupAction.gen.cpp.obj": [
+			"GaCharacter.gen.cpp.obj",
+			"GaGroupUnit.gen.cpp.obj",
+			"GaProjectEmitter.gen.cpp.obj",
+			"GaProjectileActor.gen.cpp.obj",
+			"GaProjectilePool.gen.cpp.obj",
+			"GaSubVolum.gen.cpp.obj",
+			"GaTargetFloowActor.gen.cpp.obj",
+			"GaTargetPointActor.gen.cpp.obj",
+			"groupAction.init.gen.cpp.obj",
+			"groupActionGISS.gen.cpp.obj"
+		]
+	}
+}

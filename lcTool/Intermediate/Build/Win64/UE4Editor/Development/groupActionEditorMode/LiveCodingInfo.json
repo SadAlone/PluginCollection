@@ -1,0 +1,19 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.groupActionEditorMode.cpp.obj": [
+			"GaEditorStyle.cpp.obj",
+			"groupActionEditorMode.cpp.obj",
+			"groupActionEdMode.cpp.obj",
+			"groupActionEdModeToolkit.cpp.obj",
+			"groupActionESS.cpp.obj",
+			"groupActionPaintInstance.cpp.obj",
+			"GroupActionWidgetStyle.cpp.obj"
+		],
+		"Module.groupActionEditorMode.gen.cpp.obj": [
+			"groupActionEditorMode.init.gen.cpp.obj",
+			"groupActionESS.gen.cpp.obj",
+			"GroupActionWidgetStyle.gen.cpp.obj"
+		]
+	}
+}

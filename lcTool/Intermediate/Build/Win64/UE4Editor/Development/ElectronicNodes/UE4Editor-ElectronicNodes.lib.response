@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-ElectronicNodes.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\UE4_Engine\UnrealEngine-4.26.1-release_02\Engine\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"C:\UE4_Engine\UnrealEngine-4.26.1-release_02\Engine\Plugins\lcTool\Intermediate\Build\Win64\UE4Editor\Development\ElectronicNodes\Module.ElectronicNodes.cpp.obj"
+"C:\UE4_Engine\UnrealEngine-4.26.1-release_02\Engine\Plugins\lcTool\Intermediate\Build\Win64\UE4Editor\Development\ElectronicNodes\Module.ElectronicNodes.gen.cpp.obj"
+"C:\UE4_Engine\UnrealEngine-4.26.1-release_02\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
+/OUT:"C:\UE4_Engine\UnrealEngine-4.26.1-release_02\Engine\Plugins\lcTool\Intermediate\Build\Win64\UE4Editor\Development\ElectronicNodes\UE4Editor-ElectronicNodes.lib"
+/INCLUDE:IMPLEMENT_MODULE_ElectronicNodes

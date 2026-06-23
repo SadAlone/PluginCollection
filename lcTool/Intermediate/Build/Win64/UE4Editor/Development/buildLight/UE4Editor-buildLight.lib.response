@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-buildLight.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\UE4_Engine\UnrealEngine-4.26.1-release_02\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\UE4_Engine\UnrealEngine-4.26.1-release_02\Engine\Plugins\lcTool\Intermediate\Build\Win64\UE4Editor\Development\buildLight\Module.buildLight.cpp.obj"
+"C:\UE4_Engine\UnrealEngine-4.26.1-release_02\Engine\Plugins\lcTool\Intermediate\Build\Win64\UE4Editor\Development\buildLight\Module.buildLight.gen.cpp.obj"
+"C:\UE4_Engine\UnrealEngine-4.26.1-release_02\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
+/OUT:"C:\UE4_Engine\UnrealEngine-4.26.1-release_02\Engine\Plugins\lcTool\Intermediate\Build\Win64\UE4Editor\Development\buildLight\UE4Editor-buildLight.lib"
+/INCLUDE:IMPLEMENT_MODULE_buildLight
